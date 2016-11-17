@@ -1,0 +1,11 @@
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\bin\Debug\Tigerspike.QA.POM.Core.dll
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\bin\Debug\Tigerspike.QA.POM.Core.pdb
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\bin\Debug\nunit.framework.dll
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\bin\Debug\WebDriver.dll
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\bin\Debug\WebDriver.Support.dll
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\bin\Debug\nunit.framework.xml
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\bin\Debug\WebDriver.xml
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\bin\Debug\WebDriver.Support.xml
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\obj\Debug\Tigerspike.QA.POM.Core.dll
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\obj\Debug\Tigerspike.QA.POM.Core.pdb
+C:\Sample POM\Tigerspike.QA.POM\Tigerspike.QA.POM.Core\obj\Debug\Tigerspike.QA.POM.Core.csprojResolveAssemblyReference.cache

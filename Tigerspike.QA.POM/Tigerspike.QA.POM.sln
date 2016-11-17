@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tigerspike.QA.POM.Core", "Tigerspike.QA.POM.Core\Tigerspike.QA.POM.Core.csproj", "{423885FA-1096-4757-8652-E63DFD8C6232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tigerspike.QA.POM.Tests", "Tigerspike.QA.POM.Tests\Tigerspike.QA.POM.Tests.csproj", "{200C25DB-358F-40F1-9393-B6C02F9BCB51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423885FA-1096-4757-8652-E63DFD8C6232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423885FA-1096-4757-8652-E63DFD8C6232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423885FA-1096-4757-8652-E63DFD8C6232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423885FA-1096-4757-8652-E63DFD8C6232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200C25DB-358F-40F1-9393-B6C02F9BCB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200C25DB-358F-40F1-9393-B6C02F9BCB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200C25DB-358F-40F1-9393-B6C02F9BCB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200C25DB-358F-40F1-9393-B6C02F9BCB51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
